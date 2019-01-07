@@ -1,5 +1,6 @@
 # pytorch_visualization
 A tool integrated with some functions to visualize some data and states when training in pytorch.
+```
 Usage:
 root$:/workspace/pytorch_visualization# python visualize.py
 AlexNet (
@@ -49,3 +50,4 @@ AlexNet (
 18  classifier.4     Linear         (-1, 4096)         (-1, 4096)  tensor(16781312)
 19  classifier.5       ReLU         (-1, 4096)         (-1, 4096)                 0
 20  classifier.6     Linear         (-1, 4096)         (-1, 1000)   tensor(4097000)
+```
